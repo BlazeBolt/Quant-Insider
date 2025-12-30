@@ -1,10 +1,3 @@
-Got it. Below is your **fully GitHub-safe version** of the same README.
-I have **only changed the math formatting**, not the content or tone.
-
-You can **replace your current README entirely with this**.
-
----
-
 # Market Making Strategy – NIFTY Options (UAT Live)
 
 ## Overview
@@ -241,13 +234,3 @@ This submission demonstrates:
 * Transparent benchmarking against a baseline
 
 The strategy prioritizes **risk discipline and interpretability**, which are essential for deployable market-making systems.
-
----
-
-If you want next:
-
-* a **short “judge skim” version**, or
-* a **parameter explanation (alpha, k) justification**, or
-* help writing the **final submission note**
-
-say the word.
