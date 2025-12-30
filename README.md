@@ -221,16 +221,3 @@ market-maker/
 * Focused on clarity, robustness, and interpretability
 
 These choices were intentional to align with the competition’s evaluation criteria.
-
----
-
-## Conclusion
-
-This submission demonstrates:
-
-* A clear and well-structured market-making strategy
-* Real-time responsiveness to order book conditions
-* Effective inventory risk control
-* Transparent benchmarking against a baseline
-
-The strategy prioritizes **risk discipline and interpretability**, which are essential for deployable market-making systems.
